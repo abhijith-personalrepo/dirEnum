@@ -14,7 +14,7 @@ To use this script, you can execute it from the command line with the following 
 
 **
 
-python dirEnum.py -p /path/to/folder
+python3 dirEnum.py -p /path/to/folder
 
 **
 Alternatively, you can run the script without the -p option and enter the folder path when prompted.
